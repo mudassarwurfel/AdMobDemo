@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1053495314000",
+    "firebase_url": "https://admobdemo-80f4e.firebaseio.com",
+    "project_id": "admobdemo-80f4e",
+    "storage_bucket": "admobdemo-80f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053495314000:android:3c3dafda70b82bb6",
+        "android_client_info": {
+          "package_name": "wurfel.com.admobdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053495314000-fadaqa0iubrh95kkg0qunkmie47fjsji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wurfel.com.admobdemo",
+            "certificate_hash": "c647d4da682b625ef02c5402bc4675eb07053531"
+          }
+        },
+        {
+          "client_id": "1053495314000-olvq2f60ts187nq2m93hlcrpuqjodadc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfEVHNG0dGSea6sikfb3aO_o9ku88MCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053495314000-olvq2f60ts187nq2m93hlcrpuqjodadc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3980644517237275~9511736787"
+    }
+  ],
+  "configuration_version": "1"
+}
